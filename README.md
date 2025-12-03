@@ -17,3 +17,6 @@ An automated Discord/Mineflayer bot that:
 👉 Repository: **https://github.com/bdiev/WheatMagnateBot**
 
 ---
+
+![Snake animation](https://github.com/bdiev/bdiev/blob/output/github-contribution-grid-snake.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdiev&theme=tokyonight)
