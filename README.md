@@ -17,9 +17,3 @@ An automated Discord/Mineflayer bot that:
 👉 Repository: **https://github.com/bdiev/WheatMagnateBot**
 
 ---
-
-![Discord Presence](https://lanyard.cnrad.dev/api/623303738991443968?theme=dark&animated=true&borderRadius=20px)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bdiev&theme=tokyonight)
-
----
